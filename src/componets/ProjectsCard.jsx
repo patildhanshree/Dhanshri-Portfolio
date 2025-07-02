@@ -10,10 +10,10 @@ const ProjectCard = ({ title, main }) => {
       <p className="px-4 text-sm md:text-md leading-tight py-2">{main}</p>
       <div className="mt-2 p-2 md:p-4 flex gap-2 md:gap-4">
         
-        <button className="md:mt-10 text-white py-2 px-3 text-sm hover:text-fuchsia-500 glow hover:scale-105  md:text-lg md:py-2 md:px-4 rounded-full 
+        {/* <button className="md:mt-10 text-white py-2 px-3 text-sm hover:text-fuchsia-500 glow hover:scale-105  md:text-lg md:py-2 md:px-4 rounded-full 
         bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white border-2 p-1 border-fuchsia-500">
           Source Code
-        </button>
+        </button> */}
       </div>
     </div>
   );  

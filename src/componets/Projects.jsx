@@ -23,9 +23,9 @@ import ProjectCard from './projectsCard'
 const Projects = () => {
   return (
     <div id="Projects" className="py-32 px-8 md:py-40 md:px-24 text-white bg-[#121212]">
-      <h1 className="text-2xl md:text-4xl text-white text-center hover:text-fuchsia-500">
+     <h2 className="text-4xl  text-center mb-12 hover:text-fuchsia-500">
         Projects
-      </h1>
+      </h2>
       
       {/* Removed h-screen and adjusted spacing */}
       <div className="py-12 flex flex-wrap justify-center gap-10">

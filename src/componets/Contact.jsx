@@ -52,7 +52,7 @@ function Contact() {
   return (
     <div className="bg-[#121212] text-white flex items-center justify-center min-h-screen py-20" id="Contact">
       <div className="container mx-auto px-6 md:px-16 lg:px-24">
-        <h2 className="text-4xl text-center hover:text-fuchsia-500 mb-8">Contact</h2>
+     <h2 className="text-4xl  text-center mb-12 hover:text-fuchsia-500">Contact</h2>
 
         <div className="flex flex-col md:flex-row items-center md:space-x-12 justify-center">
           <form className="space-y-6 w-full max-w-lg">
