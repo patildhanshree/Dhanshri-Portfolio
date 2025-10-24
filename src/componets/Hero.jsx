@@ -8,7 +8,7 @@ function Hero() {
   return (
     <div
       className="bg-[#121212] min-h-screen flex flex-col md:flex-row items-center justify-center px-6 md:px-10 py-12 gap-6"
-      id="Skills"
+      
     >
       {/* Text Section */}
       <div className="w-full md:w-1/2 text-center md:text-left">
