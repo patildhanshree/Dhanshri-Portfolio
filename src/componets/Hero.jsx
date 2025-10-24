@@ -6,12 +6,12 @@ import hero from '../assets/hero.jpeg';
 
 function Hero() {
   return (
-    <div
+     <div
+      id="Home"
       className="bg-[#121212] min-h-screen flex flex-col md:flex-row items-center justify-center px-6 md:px-10 py-12 gap-6"
-      
     >
       {/* Text Section */}
-      <div className="w-full md:w-1/2 text-center md:text-left">
+      <div className="w-full md:w-1/2 text-center md:text-left" >
         <h1 className="text-white text-3xl md:text-4xl lg:text-6xl hover:text-fuchsia-500">
           Hello <br />
           I'm Dhanshri Patil

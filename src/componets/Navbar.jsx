@@ -25,7 +25,7 @@ function Navbar() {
 
         {/* Nav Links - Desktop */}
         <div className="hidden md:flex space-x-6 text-base md:text-lg lg:text-xl">
-          <a href="#home" className="hover:text-fuchsia-500">Home</a>
+          <a href="#Home" className="hover:text-fuchsia-500">Home</a>
           <a href="#About" className="hover:text-fuchsia-500">About</a>
           <a href="#Skills" className="hover:text-fuchsia-500">Skills</a>
           <a href="#Projects" className="hover:text-fuchsia-500">Projects</a>
