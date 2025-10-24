@@ -6,6 +6,7 @@ import Projects from './componets/Projects'
 import Contact from './componets/Contact'
 import Footer from './componets/Footer'
 import Education from './componets/Education'
+import Skills from './componets/Skills'
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
      <Projects/>
      <Contact/>
      <Footer/>
-     
+     <Skills/>
 
 
     </>
