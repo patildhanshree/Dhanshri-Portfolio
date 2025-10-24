@@ -20,8 +20,8 @@ function Hero() {
           Full Stack Developer
         </p>
         <a
-          href="/resume.pdf"
-          download="resume.pdf"
+          href="/DHANSHRI PATIL.pdf"
+          download="DHANSHRI PATIL.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
