@@ -44,6 +44,7 @@ function About() {
   </div>
 </div>
 
+
 <div className="flex items-center space-x-4 mb-4">
   <label htmlFor="reactjs" className="w-2/12 text-lg font-semibold">Python</label>
   <div className="grow bg-gray-200 rounded-full h-3.5">
@@ -74,6 +75,17 @@ function About() {
     <div
       className='bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white p-1 border-2 border-transparent transform transition-all duration-500 hover:scale-110 w-10/12 rounded-full'
       style={{ width: '90%' }}
+    >
+      <span className="absolute text-center w-full top-0 left-0 font-bold text-white"></span>
+    </div>
+  </div>
+</div>
+<div className="flex items-center space-x-4 mb-4">
+  <label htmlFor="reactjs" className="w-2/12 text-lg font-semibold">Tailwind CSS</label>
+  <div className="grow bg-gray-200 rounded-full h-3.5">
+    <div
+      className='bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white p-1 border-2 border-transparent transform transition-all duration-500 hover:scale-110 w-10/12 rounded-full'
+      style={{ width: '65%' }}
     >
       <span className="absolute text-center w-full top-0 left-0 font-bold text-white"></span>
     </div>
