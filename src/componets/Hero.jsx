@@ -39,8 +39,8 @@ function Hero() {
       <div className="w-full md:w-1/2 flex justify-center">
         <img
           src={hero}
-          alt="Profile"
-          className="w-52 h-52 md:w-72 md:h-80 rounded-full border-2 p-1 border-fuchsia-500 object-cover transition-transform duration-300 hover:scale-105"
+  alt="Dhanshri Patil - Full Stack Developer"         
+   className="w-52 h-52 md:w-72 md:h-80 rounded-full border-2 p-1 border-fuchsia-500 object-cover transition-transform duration-300 hover:scale-105"
         />
       </div>
     </div>
